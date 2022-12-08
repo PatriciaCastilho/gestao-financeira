@@ -1,0 +1,19 @@
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+
+.hr {
+  margin: 50px 0;
+}
+
+.titulo {
+  letter-spacing: -.05rem;
+}
+
+@media (min-width: 640px) {
+  .titulo {
+    font-size: 50px;
+  }
+}
